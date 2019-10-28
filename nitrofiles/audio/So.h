@@ -1,0 +1,10 @@
+#define SFX_JUMP	0
+#define SFX_COIN	1
+#define SFX_TRANSPORTADOR	2
+#define SFX_COP	3
+#define MOD_LEYENDADELBESO	0
+#define MOD_ANDES	1
+#define MOD_GAMEOVER	2
+#define MSL_NSONGS	3
+#define MSL_NSAMPS	7
+#define MSL_BANKSIZE	10
